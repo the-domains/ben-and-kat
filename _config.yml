@@ -1,0 +1,28 @@
+name: Ben and Kat
+favicon: null
+layout_spectrum: 0.34983200556598604
+typography_spectrum: 0.45918984059244394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1610328562092036
+  lightness: 0.4251269958913326
+  saturation: 0.05024944641627371
+  rhythmicContrast: 0.07383945328183472
+purpose: []
