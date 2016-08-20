@@ -1,19 +1,4 @@
-name: Ben and Kat
-favicon: null
-layout_spectrum: 0.34983200556598604
 typography_spectrum: 0.45918984059244394
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -25,4 +10,20 @@ color:
   lightness: 0.4251269958913326
   saturation: 0.05024944641627371
   rhythmicContrast: 0.07383945328183472
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.34983200556598604
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ben and Kat
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ben and Kat
 purpose: []
